@@ -42,7 +42,6 @@ sales-dashboard/
 │── app.py
 │── superstore.csv
 │── README.md
-```
 
 
 
