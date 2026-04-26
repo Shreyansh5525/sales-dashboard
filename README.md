@@ -34,7 +34,7 @@ pip install -r requirements.txt
 streamlit run app.py
 🌐 Live Demo
 ```
-👉 [https://sales-dashboard-cm9hlpiyvy9cngsruezw8y.streamlit.app/]
+👉 https://sales-dashboard-cm9hlpiyvy9cngsruezw8y.streamlit.app/
 
 ```
 📁 Project Structure
