@@ -33,9 +33,9 @@ An interactive data analysis dashboard built using **Python, Pandas, and Streaml
 pip install -r requirements.txt
 streamlit run app.py
 🌐 Live Demo
-
-👉 [Add your deployed link here]
 ```
+👉 [https://sales-dashboard-cm9hlpiyvy9cngsruezw8y.streamlit.app/]
+
 ```
 📁 Project Structure
 sales-dashboard/
@@ -43,10 +43,10 @@ sales-dashboard/
 │── superstore.csv
 │── README.md
 ```
-```
+
 
 
 👨‍💻 Author
-
+```
 Shreyansh Kumar
 ```
