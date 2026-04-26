@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 st.title("📊 Business Sales Insights Dashboard")
 
 # Load Data
-df = pd.read_csv("E:\\Project\\sales_dashboard\\train.csv")
+df = pd.read_csv(train.csv")
 
 # Clean column names (remove spaces)
 df.columns = df.columns.str.strip()
